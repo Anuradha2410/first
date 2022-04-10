@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyParcelable</string>
+    <string name="name">Name</string>
+    <string name="textview">Name</string>
+    <string name="parcelable">Parcelable</string>
+    <string name="student_class_data">Student Class Data</string>
+    <string name="roll_no">Roll No</string>
+    <string name="dob">DOB</string>
+    <string name="send_data">Send Data</string>
+    <string name="age">Age</string>
+</resources>
